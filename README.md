@@ -16,7 +16,7 @@ Sou a **Adriana Capozzi**, estudante de **Engenharia de Computação** e **bacha
 **BI**, 
 **Análise de dados**, 
 **Administração de banco de dados** e
-**Desenvolvimento web full stack** – não é algo que eu queira aplicar profissionalmente, mas acho que está para a engenheira de computação como a pasta alla carbonara 🍝 para a cozinheira, capisce?
+**Desenvolvimento web full stack**. O último não é algo que eu queira aplicar profissionalmente, mas acho que está para a engenheira de computação como a pasta alla carbonara 🍝 para a cozinheira, capisce? Já tudo que tem a ver com dados tem feito parte dos meus estudos.
 
 🛠️ Gosto de aplicar tecnologia para melhorar a vida das pessoas — seja com dashboards inteligentes ou com sistemas que conectam comunidades e defendem mulheres ♀️. Sim, tem isso aqui também!
 
