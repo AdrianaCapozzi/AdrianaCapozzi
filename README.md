@@ -2,14 +2,14 @@
 
 Sou a **Adriana Capozzi**, estudante de **Engenharia de Computação** e **bacharela em Tecnologia da Informação**, com ênfase em **Desenvolvimento de Software** e **Internet das Coisas (IoT)**.
 
-💡 Aqui você encontra os **Projetos Integradores** que venho desenvolvendo durante a graduação e também **projetos pessoais**. Me sinto a vontade para aplicar meu aprendizado no dia a dia das pessoas: meus repôs têm a ver com essa habilidade e carregam muito significado .  
+💡 Aqui você encontra os **Projetos Integradores** que venho desenvolvendo durante a graduação e também **projetos pessoais**. Me sinto a vontade para aplicar meu aprendizado no dia a dia das pessoas ao meu redor: meus repôs têm a ver com essa habilidade e carregam muito significado.  
 ⚠️ Este espaço está em **construção contínua**, então... **não repare a bagunça!** 😅
 
 ---
 
 ## Sobre mim
 
-👩‍💻 Apaixonada por tecnologia, dados, música, espresso e resolver problemas com código e visão analítica!
+👩‍💻  Me realizo aprendendo um pouco todos os dias, amo música, curto um espresso e resolver problemas com código e visão analítica é meu desasfio!
 
 🌱 Atualmente estou aprendendo e me aprofundando em:
 
@@ -25,7 +25,7 @@ Sou a **Adriana Capozzi**, estudante de **Engenharia de Computação** e **bacha
 📫 Me encontra por aí:
 
 - ✉️ tatacapozzi@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/adrianacapozzi/)  
+- 💼 [LinkedIn]([(https://www.linkedin.com/in/adriana-capozzi-univesp/))  
 - 🌍 [Portfólio em construção no GitHub Pages](https:///) ← (Vou colocar no ar já já!)
 
 ---
