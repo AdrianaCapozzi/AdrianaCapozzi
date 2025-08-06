@@ -13,16 +13,16 @@ Sou a **Adriana Capozzi**, estudante de **Engenharia de Computação** e **bacha
 
 🌱 Atualmente estou aprendendo e me aprofundando em:
 
-**BI**
-**Análise de dados**
-**Administração de banco de dados**
+**BI**, 
+**Análise de dados**, 
+**Administração de banco de dados** e
 **Desenvolvimento web full stack** – não é algo que eu queira aplicar profissionalmente, mas acho que está para a engenheira de computação como a pasta alla carbonara 🍝 para a cozinheira, capisce?
 
-🛠️ Gosto de aplicar tecnologia para melhorar a vida das pessoas — seja com dashboards inteligentes, seja com sistemas que conectam comunidades e defendem mulheres ♀️. Sim, tem isso aqui também!
+🛠️ Gosto de aplicar tecnologia para melhorar a vida das pessoas — seja com dashboards inteligentes ou com sistemas que conectam comunidades e defendem mulheres ♀️. Sim, tem isso aqui também!
 
 ---
 
-📫 Me encontra por aí, manda mensagem se quiser falar sobre algum repositório:
+📫 Me encontre por aí, mande mensagem se quiser falar sobre algum repositório:
 
 - ✉️ tatacapozzi@gmail.com  
 - 💼 [LinkedIn] [https://www.linkedin.com/in/adriana-capozzi-univesp/] 
@@ -30,4 +30,4 @@ Sou a **Adriana Capozzi**, estudante de **Engenharia de Computação** e **bacha
 
 ---
 
-✨ Obrigada por passar aqui! Volte sempre que quiser ver as novidades, porque elas estão sempre chegando! 😊  
+✨ Obrigada pela visita! Volte sempre que quiser ver as novidades, porque elas estão sempre chegando! 😊  
