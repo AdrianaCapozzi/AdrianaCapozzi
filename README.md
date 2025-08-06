@@ -22,10 +22,10 @@ Sou a **Adriana Capozzi**, estudante de **Engenharia de Computação** e **bacha
 
 ---
 
-📫 Me encontra por aí:
+📫 Me encontra por aí, manda mensagem se quiser falar sobre algum repositório:
 
 - ✉️ tatacapozzi@gmail.com  
-- 💼 [LinkedIn]([(https://www.linkedin.com/in/adriana-capozzi-univesp/))  
+- 💼 [LinkedIn] [https://www.linkedin.com/in/adriana-capozzi-univesp/] 
 - 🌍 [Portfólio em construção no GitHub Pages](https:///) ← (Vou colocar no ar já já!)
 
 ---
