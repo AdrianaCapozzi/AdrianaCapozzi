@@ -45,7 +45,7 @@ About Me
 
 🌱 I’m currently diving deeper into:
 
-Business Intelligence, Data Analysis, Database Administration, and Full-Stack Web Development.
+Business Intelligence, Data Analytics, Database Administration, and Full-Stack Web Development.
 I don’t plan to pursue web dev professionally, but I see it as essential to a computer engineer — like carbonara 🍝 to a good cook, capisce?
 Everything data-related, though? That’s where my heart (and brain) is right now.
 
