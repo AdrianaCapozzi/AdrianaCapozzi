@@ -54,7 +54,7 @@ Everything data-related, though? That’s where my heart (and brain) is right no
 🛠️ I believe in applying tech to make people’s lives better — whether that’s through smart dashboards or systems that connect communities and empower women ♀️. Yep, you’ll find that here too!
 
 📫 Let’s Connect
-Feel free to reach out if you want to talk about any project or just say hi:
+Feel free to reach out
 
 ✉️ tatacapozzi@gmail.com
 💼 LinkedIn
