@@ -9,20 +9,22 @@ Sou a **Adriana Capozzi**, estudante de **Engenharia de Computação** e **bacha
 
 ## Sobre mim
 
-👩‍💻  Me realizo aprendendo um pouco todos os dias, amo música, curto um espresso e resolver problemas com código e visão analítica é meu desasfio!
+👩‍💻  Me realizo aprendendo um pouco todos os dias. Hoje, estudar é, definitivamente, minha atividade principal!
 
-🌱 Atualmente estou aprendendo e me aprofundando em:
+🌱 Estou aprendendo e me aprofundando em:
 
 **BI**, 
 **Análise de dados**, 
 **Administração de banco de dados** e
-**Desenvolvimento web full stack**. O último não é algo que eu queira aplicar profissionalmente, mas acho que está para a engenheira de computação como a pasta alla carbonara 🍝 para a cozinheira, capisce? Já tudo que tem a ver com dados tem feito parte dos meus estudos.
+**Desenvolvimento web full stack**. 
 
-🛠️ Gosto de aplicar tecnologia para melhorar a vida das pessoas — seja com dashboards inteligentes ou com sistemas que conectam comunidades e defendem mulheres ♀️. Sim, tem isso aqui também!
+O último não é algo que eu queira aplicar profissionalmente, mas acho que está para a engenheira de computação como a pasta alla carbonara 🍝 para a cozinheira, capisce?
+
+🛠️ Gosto de aplicar tecnologia para melhorar a vida das pessoas — seja com dashboards inteligentes ou com sistemas que conectam comunidades e proyegem mulheres ♀️. Sim, tem isso aqui também!
 
 ---
 
-📫 Me encontre por aí, mande mensagem se quiser falar sobre algum repositório:
+📫 Me encontre por aí:
 
 - ✉️ tatacapozzi@gmail.com  
 - 💼 [LinkedIn] [https://www.linkedin.com/in/adriana-capozzi-univesp/] 
