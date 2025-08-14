@@ -20,7 +20,7 @@ Sou a **Adriana Capozzi**, estudante de **Engenharia de Computação** e **bacha
 
 O último não é algo que eu queira aplicar profissionalmente, mas acho que está para a engenheira de computação como a pasta alla carbonara 🍝 para a cozinheira, capisce?
 
-🛠️ Gosto de aplicar tecnologia para melhorar a vida das pessoas — seja com dashboards inteligentes ou com sistemas que conectam comunidades e proyegem mulheres ♀️. Sim, tem isso aqui também!
+🛠️ Gosto de aplicar tecnologia para melhorar a vida das pessoas — seja com dashboards inteligentes ou com sistemas que conectam comunidades e protegem mulheres ♀️. Sim, tem isso aqui também!
 
 ---
 
