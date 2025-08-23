@@ -28,7 +28,7 @@ O último não é algo que eu queira aplicar profissionalmente, mas acho que est
 
 - ✉️ tatacapozzi@gmail.com  
 - 💼 [LinkedIn] [https://www.linkedin.com/in/adriana-capozzi-univesp/] 
-- 🌍 [Portfólio em construção no GitHub Pages](https:///) ← (Vou colocar no ar já já!)
+- 🌍 [Portfólio em construção] [wwww.adrianacapozzidb.com]
 
 ---
 
@@ -58,6 +58,5 @@ Feel free to reach out
 
 ✉️ tatacapozzi@gmail.com
 💼 LinkedIn
-🌍 GitHub Pages portfolio — coming soon!
-
+🌍 portfolio wwww.adrianacapozzidb.com
 ✨ Thanks for stopping by! Come back anytime to check out what’s new — I’m always building something! 😊
