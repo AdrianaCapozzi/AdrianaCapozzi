@@ -27,8 +27,8 @@ O último não é algo que eu queira aplicar profissionalmente, mas acho que est
 📫 Me encontre por aí:
 
 - ✉️ tatacapozzi@gmail.com  
-- 💼 [LinkedIn] [https://www.linkedin.com/in/adriana-capozzi-univesp/] 
-- 🌍 [wwww.adrianacapozzidb.com]
+- 💼 https://www.linkedin.com/in/adriana-capozzi-univesp 
+- 🌍 wwww.adrianacapozzidb.com
 
 ---
 
