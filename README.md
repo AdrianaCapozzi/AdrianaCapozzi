@@ -1,4 +1,4 @@
-# Olá <3 
+# Olá, prezado visitante
 
 Sou a **Adriana Capozzi**, estudante de **Engenharia de Computação** e **Bacharela em Tecnologia da Informação**, com ênfase em **Desenvolvimento de Software** e **Internet das Coisas (IoT)**.
 
