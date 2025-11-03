@@ -56,7 +56,6 @@ Everything data-related, though? That’s where my heart (and brain) is right no
 📫 Let’s Connect
 Feel free to reach out
 
-✉️ tatacapozzi@gmail.com
-💼 LinkedIn
-🌍 portfolio wwww.adrianacapozzidb.com
-✨ Thanks for stopping by! Come back anytime to check out what’s new — I’m always building something! 😊
+- ✉️ tatacapozzi@gmail.com  
+- 💼 https://www.linkedin.com/in/adriana-capozzi-univesp 
+- 🌍 www.adrianacapozzidb.com
