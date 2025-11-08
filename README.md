@@ -1,4 +1,4 @@
-# Olá, prezado visitante
+# Oi! tudo bem?
 
 Sou a **Adriana Capozzi**, estudante de **Engenharia de Computação** e **Bacharela em Tecnologia da Informação**, com ênfase em **Desenvolvimento de Software** e **Internet das Coisas (IoT)**.
 
@@ -35,7 +35,7 @@ O último não é algo que eu queira aplicar profissionalmente, mas acho que est
 ✨ Obrigada pela visita! Volte sempre que quiser ver as novidades, porque elas estão sempre chegando! 😊 
 
 
-👋 Hello there, visitor!
+👋 Hello there, how r u?
 I'm Adriana Capozzi, a Computer Engineering student and a graduate in Information Technology, with a focus on Software Development and the Internet of Things (IoT).
 
 💡 Here you’ll find my academic integration projects and a few personal ones as well. I love using what I’ve learned to solve real-world problems and support people around me — my repositories reflect that mindset and carry real meaning.
