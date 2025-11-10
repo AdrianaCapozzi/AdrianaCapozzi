@@ -1,6 +1,6 @@
 # Oi! tudo bem?
 
-Sou a **Adriana Capozzi**, estudante de **Engenharia de Computação**, **Pós graduanda em Administração de Baanco de Daados** e **Bacharela em Tecnologia da Informação**, com ênfase em **Desenvolvimento de Software** e **Internet das Coisas (IoT)**.
+Sou a **Adriana Capozzi**, estudante de **Engenharia de Computação**, **Pós graduanda em Administração de Banco de Dados** e **Bacharela em Tecnologia da Informação**, com ênfase em **Desenvolvimento de Software** e **Internet das Coisas (IoT)**.
 
 💡 Aqui você encontra os **Projetos Integradores** que venho desenvolvendo durante a graduação e também **projetos pessoais**. Procuro pensar em como posso aplicar o aprendizado que tenho buscado no dia a dia das pessoas ao meu redor: meus repôs têm a ver com essa habilidade e carregam muito significado.  
 ⚠️ Este espaço está em **construção contínua**, então... **não repare a bagunça!** 😅
