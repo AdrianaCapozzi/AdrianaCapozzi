@@ -20,7 +20,7 @@ Sou a **Adriana Capozzi**, estudante de **Engenharia de Computação**, **Pós g
 
 O último não é algo que eu queira aplicar profissionalmente, mas acho que está para a engenheira de computação como a pasta alla carbonara 🍝 para a cozinheira, capisce?
 
-🛠️ Gosto de aplicar tecnologia para melhorar a vida das pessoas — seja com dashboards inteligentes ou com sistemas que conectam comunidades e protegem mulheres ♀️. Sim, tem isso aqui também!
+🛠️ Gosto de aplicar tecnologia para melhorar a vida das pessoas, seja com dashboards inteligentes ou com sistemas que conectam comunidades e protegem mulheres ♀️. Sim, tem isso aqui também!
 
 ---
 
@@ -51,7 +51,7 @@ Business Intelligence, Data Analytics, Database Administration, and Full-Stack W
 I don’t plan to pursue web dev professionally, but I see it as essential to a computer engineer — like carbonara 🍝 to a good cook, capisce?
 Everything data-related, though? That’s where my heart (and brain) is right now.
 
-🛠️ I believe in applying tech to make people’s lives better — whether that’s through smart dashboards or systems that connect communities and empower women ♀️. Yep, you’ll find that here too!
+🛠️ I believe in applying tech to make people’s lives better, whether that’s through smart dashboards or systems that connect communities and empower women ♀️. Yep, you’ll find that here too!
 
 📫 Let’s Connect
 Feel free to reach out
